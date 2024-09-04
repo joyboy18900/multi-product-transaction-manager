@@ -19,7 +19,7 @@ This project is a Spring Boot application that manages different types of produc
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/multi_product_transaction_manager.git
+    git clone https://github.com/joyboy18900/multi-product-transaction-manager.git
     ```
 2. Navigate to the project directory:
     ```sh
