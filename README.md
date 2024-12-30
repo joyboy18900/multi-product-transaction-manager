@@ -2,6 +2,13 @@
 
 This project is a Spring Boot application that manages different types of product transactions. It includes handling requests for various product types such as loans, insurance, and credit.
 
+## Project Structure
+
+- This project follows the "by service" structure as recommended in the Spring Boot documentation.
+- Instead of separating components like Controller, Service, and Repository into different packages, we group them by feature or service. This approach differs from the traditional structure but aligns with Spring Boot's best practices for scalability and maintainability.
+
+If you're more familiar with the traditional structure, please note this design choice to avoid confusion while navigating the codebase.
+
 ## Features
 
 - **Loan Product Requests**: Manage loan product transactions with details like loan amount and term in months.
